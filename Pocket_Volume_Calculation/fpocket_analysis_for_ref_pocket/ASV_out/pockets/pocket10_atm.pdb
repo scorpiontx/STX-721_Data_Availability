@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0462
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8921
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6025
+HEADER 5  - Mean B-factor of pocket residues  : 0.4785
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 129.6724
+HEADER 10  -Pocket volume (convex hull)       : 0.7085
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1693   CG GLU A 807      10.418   8.982  13.315  0.00  0.00           C 0
+ATOM   1542    O PHE A 798       8.372   8.463   5.706  0.56  6.43           O 0
+ATOM   1695  OE1 GLU A 807      11.580   6.960  12.735  0.00  0.00           O 0
+ATOM   1692   CB GLU A 807       9.086   8.256  13.164  0.00  0.00           C 0
+ATOM   1618    O ASP A 803       7.961   5.544  11.502  0.59  1.07           O 0
+ATOM   1619   CB ASP A 803       9.077   3.846   8.962  0.00  0.00           C 0
+ATOM   1617    C ASP A 803       7.521   5.103  10.441  0.00  0.00           C 0
+ATOM   1627    N TYR A 804       6.688   5.778   9.652  0.00  0.00           N 0
+ATOM   1633  CD1 TYR A 804       6.150  10.100   8.809  0.00  0.00           C 0
+ATOM   1628   CA TYR A 804       6.255   7.130   9.974  0.00  0.00           C 0
+ATOM   1710  CE1 HIS A 808       8.005  11.820  11.650  0.00  0.00           C 0
+ATOM   1549  CD2 PHE A 798       7.928  13.339   5.676  0.00  0.00           C 0
+ATOM   1634  CE1 TYR A 804       5.944  11.459   8.975  0.00  0.00           C 0
+TER
+END

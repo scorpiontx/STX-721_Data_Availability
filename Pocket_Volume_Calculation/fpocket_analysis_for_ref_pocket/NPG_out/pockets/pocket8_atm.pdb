@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0308
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9371
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5686
+HEADER 5  - Mean B-factor of pocket residues  : 0.5137
+HEADER 6  - Hydrophobicity Score              : -14.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 291.0263
+HEADER 10  -Pocket volume (convex hull)       : 8.0508
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   4205   CE LYS A 963     -19.562  -5.811  -2.688  0.00  0.00           C 0
+ATOM   3170   CD GLN A 897     -15.126  -8.053  -0.610  0.00  0.00           C 0
+ATOM   3169   CG GLN A 897     -14.795  -9.523  -0.847  0.00  0.00           C 0
+ATOM   3171  OE1 GLN A 897     -14.896  -7.206  -1.475  0.56  2.14           O 0
+ATOM   2098  OE2 GLU A 832     -14.149  -5.562  -5.274  0.00  0.00           O 1
+ATOM   3138  OG1 THR A 895     -12.134 -11.710  -4.069  0.46  4.29           O 0
+ATOM   2667    O GLY A 866     -13.229 -10.481  -8.225  0.19  6.43           O 0
+ATOM   3151   CB HIS A 896     -11.586  -7.582  -4.230  0.00  0.00           C 0
+ATOM   4138   CA ASP A 959     -19.251 -11.443   1.141  0.00  0.00           C 0
+ATOM   4143  OD1 ASP A 959     -19.120 -13.400  -0.868  0.00  0.00           O 0
+ATOM   4140    O ASP A 959     -20.032  -9.329   1.940  0.12  5.36           O 0
+ATOM   4206   NZ LYS A 963     -20.322  -5.907  -3.963  0.00  0.00           N 1
+ATOM   4141   CB ASP A 959     -20.476 -12.265   0.722  0.00  0.00           C 0
+ATOM   3172  NE2 GLN A 897     -15.662  -7.745   0.566  0.67  2.19           N 0
+ATOM   3153  ND1 HIS A 896     -11.712  -8.019  -6.781  0.00  0.00           N 0
+TER
+END

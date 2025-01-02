@@ -1,0 +1,77 @@
+TITLE     EGFR-K IN COMPLEX WITH LIGAND PH-SCO-A-VS-0000361-0-1
+EXPDTA    X-RAY DIFFRACTION
+REMARK   3  R VALUE : 0.190860
+REMARK   3  FREE R VALUE : 0.248740
+REMARK   4   13- COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 200  TEMPERATURE           (KELVIN) : NULL
+REMARK 200  PH                             : NULL
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1  147.845  147.845  147.845  90.00  90.00  90.00 I 2 3         0
+HETATM    1 CL1  INX I   1       9.066   0.735  -8.844  1.00100.47          Cl  
+HETATM    2  C2  INX I   1       9.684   1.138  -7.278  1.00 84.62           C  
+HETATM    3  C3  INX I   1      10.919   1.763  -7.202  1.00 67.50           C  
+HETATM    4  C4  INX I   1      11.428   2.099  -5.966  1.00 78.90           C  
+HETATM    5  C5  INX I   1      10.723   1.812  -4.808  1.00102.72           C  
+HETATM    6  C6  INX I   1       9.470   1.183  -4.859  1.00106.44           C  
+HETATM    7  N7  INX I   1       8.678   0.881  -3.725  1.00101.58           N  
+HETATM    8  C8  INX I   1       9.103   0.844  -2.402  1.00 90.24           C  
+HETATM    9  C9  INX I   1       8.985  -0.362  -1.632  1.00 83.67           C  
+HETATM   10  C10 INX I   1       8.473  -1.681  -2.014  1.00 97.45           C  
+HETATM   11  O11 INX I   1       8.220  -1.922  -3.184  1.00 88.82           O  
+HETATM   12  N12 INX I   1       8.285  -2.595  -1.017  1.00107.00           N  
+HETATM   13  C13 INX I   1       8.554  -2.335   0.399  1.00108.24           C  
+HETATM   14  C14 INX I   1       9.513  -1.175   0.702  1.00110.96           C  
+HETATM   15  C15 INX I   1       9.471  -0.102  -0.365  1.00 98.75           C  
+HETATM   16  N16 INX I   1       9.856   1.174  -0.339  1.00105.81           N  
+HETATM   17  C17 INX I   1       9.655   1.793  -1.565  1.00103.04           C  
+HETATM   18  C18 INX I   1       9.951   3.233  -1.821  1.00102.02           C  
+HETATM   19  C19 INX I   1       9.260   3.956  -2.820  1.00 80.93           C  
+HETATM   20  C20 INX I   1       9.531   5.300  -3.015  1.00 74.74           C  
+HETATM   21  N21 INX I   1      10.428   5.930  -2.273  1.00 75.30           N  
+HETATM   22  C22 INX I   1      11.110   5.307  -1.323  1.00 83.60           C  
+HETATM   23  C23 INX I   1      10.901   3.955  -1.050  1.00 98.46           C  
+HETATM   24  O24 INX I   1      11.614   3.324  -0.077  1.00101.39           O  
+HETATM   25  C25 INX I   1      11.692   3.887   1.233  1.00102.02           C  
+HETATM   26  C26 INX I   1      12.160   2.784   2.179  1.00 98.57           C  
+HETATM   27  C28 INX I   1      12.056   3.238   3.647  1.00106.19           C  
+HETATM   28  C29 INX I   1      11.265   2.097   4.336  1.00138.87           C  
+HETATM   29  C30 INX I   1      11.297   0.949   3.292  1.00123.48           C  
+HETATM   30  O31 INX I   1      11.307   1.637   2.024  1.00 94.86           O  
+HETATM   31  C32 INX I   1       8.955   0.847  -6.121  1.00100.21           C  
+HETATM   32  O33 INX I   1       7.744   0.224  -6.198  1.00106.85           O  
+HETATM   33  C34 INX I   1       6.577   1.041  -6.232  1.00142.17           C  
+CONECT    1    2
+CONECT    2    1    3   31
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7   31
+CONECT    7    6    8
+CONECT    8    7    9   17
+CONECT    9    8   10   15
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15    9   14   16
+CONECT   16   15   17
+CONECT   17    8   16   18
+CONECT   18   17   19   23
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   18   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27   30
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   26   29
+CONECT   31    2    6   32
+CONECT   32   31   33
+CONECT   33   32
+END   

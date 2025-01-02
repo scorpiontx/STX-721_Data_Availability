@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0558
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0435
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5271
+HEADER 5  - Mean B-factor of pocket residues  : 0.6002
+HEADER 6  - Hydrophobicity Score              : 36.1000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.3949
+HEADER 10  -Pocket volume (convex hull)       : 7.6145
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM   2818  CG2 VAL A 876       2.093 -16.909   2.233  0.00  0.00           C 0
+ATOM   2847  CG1 ILE A 878       1.405 -17.102   7.120  0.00  0.00           C 0
+ATOM   2982    O ILE A 886      -3.934 -21.408   4.264  0.00  0.00           O 0
+ATOM   2848  CD1 ILE A 878       2.018 -18.323   7.687  0.00  0.00           C 0
+ATOM   2986  CG2 ILE A 886      -3.767 -19.752   7.183  0.00  0.00           C 0
+ATOM   2980   CA ILE A 886      -4.488 -19.135   4.815  0.00  0.00           C 0
+ATOM   2777   CA GLY A 873       1.835 -20.859  -2.248  0.00  0.00           C 0
+ATOM   2783    N GLY A 874       3.950 -20.392  -1.180  0.00  0.00           N 0
+ATOM   3043  NH1 ARG A 889      -1.232 -25.458  -0.835  0.00  0.00           N 0
+ATOM   2764    O GLU A 872       1.987 -23.107  -3.902  0.00  0.00           O 0
+ATOM   2786    O GLY A 874       4.708 -19.212   1.148  0.41  5.36           O 0
+ATOM   2914   CE MET A 881      -2.345 -16.451   3.289  0.00  0.00           C 0
+ATOM   3039   CG ARG A 889      -2.850 -22.114  -0.575  0.00  0.00           C 0
+ATOM   3086   OH TYR A 891      -1.852 -16.297   0.056  0.75  4.29           O 0
+ATOM   3040   CD ARG A 889      -1.539 -22.594  -1.194  0.00  0.00           C 0
+ATOM   2971    O SER A 885      -4.602 -19.081   2.031  0.53  1.07           O 0
+TER
+END
