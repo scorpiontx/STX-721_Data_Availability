@@ -1,6 +1,7 @@
 # STX-721_Data_Availability
 
 Author: Dr. Jack Henderson
+
 Date: 01/02/25
 
 This README file is for the data availabiilty of the AACR Journal Entry Titled "STX-721, a covalent EGFR/HER2 exon 20 inhibitor,
