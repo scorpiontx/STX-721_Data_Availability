@@ -4,9 +4,9 @@ Author: Dr. Jack Henderson
 
 Date: 01/02/25
 
-This README file is for the data availability of the AACR Journal Entry Titled "STX-721, a covalent EGFR/HER2 exon 20 inhibitor, takes advantage of exon 20 mutant dynamic protein states and achieves unique mutant-selectivity across human cancer models"
+This README file is for the data availability of the AACR Journal Entry Titled "STX-721, a covalent EGFR/HER2 exon 20 inhibitor, takes advantage of exon 20 mutant dynamic protein states and achieves unique mutant-selectivity across human cancer models."
 
-The trajectories from the metadynamics simulations are included in a data directory located on S3 while analysis scripts are included in a code directory located on GitHub.
+The trajectories from the metadynamics simulations are included in a data directory located on S3, while analysis scripts are included here on GitHub.
 
 In the data directory, trajectory files are in dcd format and have been converted from desmond trajectories.
 
@@ -31,7 +31,7 @@ The code directory includes all scripts used to run the analysis and generate th
 - Other Software:
     - Fpocket is required for the pocket volume calculation in step 2 below. https://github.com/Discngine/fpocket
 
-- To re-analyze the and re-generate the figure in the paper please run the following script in the specified order.
+- To re-analyze and re-generate the figure in the paper, please run the following script in the specified order.
 
     1.) C-Helix_Transition_Calculation.ipynb
         - This script calculates the RMSD with respect to C-Helix 'In' and 'Out' state crystal structures and some additional C-Helix angle information.
