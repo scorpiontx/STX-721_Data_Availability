@@ -8,6 +8,8 @@ This README file is for the data availability of the AACR Journal Entry Titled "
 
 The trajectories from the metadynamics simulations are included in a data directory located on S3 (link pending), while analysis scripts are included here on GitHub.
 
+** Raw Data (Metadynamics Simulation Trajectories) **
+
 In the data directory on S3 (link pending), trajectory files are in dcd format and have been converted from desmond trajectories.
 
 - Trajectory Directories:
@@ -16,7 +18,8 @@ In the data directory on S3 (link pending), trajectory files are in dcd format a
     - NPG_*
     - SVD_*
 
-The code directory includes all scripts used to run the analysis and generate the plots for the paper.
+
+Here, you will find all the scripts used to run the analysis and generate the plots for the paper.
 
 -- Requirements --
 
