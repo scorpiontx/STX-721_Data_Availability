@@ -22,12 +22,12 @@ The code directory includes all scripts used to run the analysis and generate th
 
 -- Requirements --
 Python Libraries:
-    - mdanalysis                2.6.1
-    - matplotlib                3.9.2
-    - numpy                     1.26.4
-    - seaborn                   0.13.2
-    - tqdm                      4.66.6
-    - scipy                     1.14.1
+    * mdanalysis                2.6.1
+    * matplotlib                3.9.2
+    * numpy                     1.26.4
+    * seaborn                   0.13.2
+    * tqdm                      4.66.6
+    * scipy                     1.14.1
 
 Other Software:
     - fpocket is required for the pocket volume calculation in step 2 below.
