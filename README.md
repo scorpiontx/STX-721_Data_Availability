@@ -6,7 +6,7 @@ Date: 01/02/25
 
 This README file is for the data availability of the AACR Journal Entry Titled "STX-721, a covalent EGFR/HER2 exon 20 inhibitor, takes advantage of exon 20 mutant dynamic protein states and achieves unique mutant-selectivity across human cancer models."
 
-The trajectories from the metadynamics simulations are included in a data directory located on S3, while analysis scripts are included here on GitHub.
+The trajectories from the metadynamics simulations are included in a data directory located on S3 (link pending), while analysis scripts are included here on GitHub.
 
 In the data directory, trajectory files are in dcd format and have been converted from desmond trajectories.
 
@@ -38,6 +38,7 @@ The code directory includes all scripts used to run the analysis and generate th
         - Once completed, this script will create Extended Data Fig. 1A and Fig. 1C found in the main text.
         - Data from this script will be stored in the C-Helix_Transition_Data directory as simple text files.
         - Plots from this script will be stored in the plots directory.
+        - The REF_structures directory includes EGFR In- and Out-state structures used for alignments. Resid numbering in these structures have been modified to account for changes in resid numbering from insertion mutations.
 
     2.) Pocket_Volume_Calculation
         - Here there are two scripts Step1_pocket_vol_calc.ipynb and Step2_Plotting.ipynb
