@@ -12,12 +12,13 @@ This README file is for the data availability of the AACR Journal Entry Titled "
 
 The first step is to download the data directory from our AWS S3 Bucket following these CLI steps:
 
+```bash
 TAR_FILE_URL="https://stx721-data-availability.s3.us-east-1.amazonaws.com/data.tar.gz"
 
 curl -o data.tar.gz ${TAR_FILE_URL}
 
 tar -xvf data.tar.gz -C ./data
-
+```
 
 In the data directory, trajectory files are in dcd format and have been converted from desmond trajectories.
 
