@@ -6,11 +6,13 @@ Date: 01/02/25
 
 This README file is for the data availability of the AACR Journal Entry Titled "STX-721, a covalent EGFR/HER2 exon 20 inhibitor, takes advantage of exon 20 mutant dynamic protein states and achieves unique mutant-selectivity across human cancer models."
 
-The trajectories from the metadynamics simulations are included in a data directory located on S3 (link pending), while analysis scripts are included here on GitHub.
+[Link to Publication Pending]
 
 ## Raw Data (Metadynamics Simulation Trajectories)
 
-In the data directory on S3 (link pending), trajectory files are in dcd format and have been converted from desmond trajectories.
+The first step is to download the data directory from our AWS S3 Bucket Located Here: 
+
+In the data directory, trajectory files are in dcd format and have been converted from desmond trajectories.
 
 - Trajectory Directories:
     - WT_*
