@@ -45,7 +45,7 @@ Here, you will find all the scripts used to run the analysis and generate the pl
 - Other Software:
     - Fpocket is required for the pocket volume calculation in step 2 below. https://github.com/Discngine/fpocket
 
-- To re-analyze and re-generate the figure in the paper, please run the following scripts in the specified order.
+- To re-analyze and re-generate the figures in the paper, please run the following scripts in this order.
 
 1. C-Helix_Transition_Calculation.ipynb
    - This script calculates the RMSD with respect to C-Helix 'In' and 'Out' state crystal structures and some additional C-Helix angle information.
