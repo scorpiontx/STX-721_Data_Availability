@@ -41,7 +41,7 @@ Here, you will find all the scripts used to run the analysis and generate the pl
 
 1. C-Helix_Transition_Calculation.ipynb
    - This script calculates the RMSD with respect to C-Helix 'In' and 'Out' state crystal structures and some additional C-Helix angle information.
-   - Once completed, this script will create Extended Data Fig. 1A and Fig. 1C found in the main text.
+   - Once completed, this script will create Supplementary Fig. S1C and Fig. 1C found in the main text.
    - Data from this script will be stored in the C-Helix_Transition_Data directory as simple text files.
    - Plots from this script will be stored in the plots directory.
    - The REF_structures directory includes EGFR In- and Out-state structures used for alignments. Resid numbering in these structures has been modified to account for changes in resid numbering from insertion mutations.
@@ -54,4 +54,4 @@ Here, you will find all the scripts used to run the analysis and generate the pl
 
 3. Plot_Pocket_Volume_and_C-Helix_RMSD_Correlations.ipynb
    - finally, this script will generate correlation plots between the RMSD and pocket volume calculation results.
-   - This script produces Extended Data Fig 1B and Fig 1E from the main text.
+   - This script produces Supplementary Fig S1D and Fig 1E from the main text.
